@@ -1,5 +1,10 @@
+channels: 
+    - conda-forge
+
 dependencies:
   - bokeh
+  - ipyvolume
+  - appmode
   - rise
   - pandas
   - scipy
